@@ -1,2 +1,2 @@
 # hello-world
-first time int git
+first time int gits
